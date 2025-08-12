@@ -195,19 +195,6 @@ DELETE https://localhost:7001/api/produtos/1
 3. Teste os endpoints diretamente no navegador
 4. Use o cliente exemplo para testes programáticos
 
-## 📝 Próximos Passos
-
-Para evoluir este projeto, considere:
-
-1. **Autenticação e Autorização** (JWT, Identity)
-2. **Validação com FluentValidation**
-3. **Logging estruturado**
-4. **Testes unitários e de integração**
-5. **Banco de dados real** (SQL Server, PostgreSQL)
-6. **Cache** (Redis)
-7. **Documentação automática** (Swagger)
-8. **Monitoramento** (Health Checks)
-
 ## 🤝 Contribuição
 
 Este é um projeto educacional. Sinta-se à vontade para:
