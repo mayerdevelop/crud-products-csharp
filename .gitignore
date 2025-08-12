@@ -1,0 +1,109 @@
+# Arquivos do sistema operacional
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Arquivos de build e compilação
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Arquivos temporários do Visual Studio
+*.tmp
+*.temp
+*.swp
+*.*~
+project.lock.json
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# Arquivos de configuração do usuário
+*.user
+*.userosscache
+*.sln.docstates
+
+# Arquivos de configuração do Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Arquivos de configuração do Rider
+.idea/
+*.sln.iml
+
+# Arquivos de configuração do VS Code
+.vscode/
+*.code-workspace
+
+# Arquivos de NuGet
+*.nupkg
+*.snupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+*.nuget.props
+*.nuget.targets
+
+# Arquivos de Entity Framework
+*.mdf
+*.ldf
+*.ndf
+
+# Arquivos de configuração local
+appsettings.Development.json
+appsettings.Local.json
+appsettings.*.json
+!appsettings.json
+!appsettings.Example.json
+
+# Arquivos de log
+*.log
+logs/
+Logs/
+
+# Arquivos de teste
+TestResults/
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Arquivos de cobertura de código
+*.coverage
+*.coveragexml
+
+# Arquivos de publicação
+*.Publish.xml
+*.azurePubxml
+*.pubxml
+*.publishproj
+
+# Arquivos de configuração do Microsoft Azure
+ServiceConfiguration.Local.cscfg
+ServiceConfiguration.Cloud.cscfg
+
+# Arquivos de configuração do Microsoft Azure Web App
+*.azurePubxml
+*.pubxml
+*.publishproj
+
+# Arquivos de configuração do Microsoft Azure Web App publish settings
+PublishScripts/
